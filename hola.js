@@ -4,7 +4,7 @@ function mostrarMensaje(){
     document.getElementById("sorpresa");
 
     sorpresa.innerHTML =
-    "💖 Gracias por existir. Ojalá todos tus días estén llenos de amor, felicidad y muchísimas razones para sonreír 🎂✨";
+    " Espero que la vida te regale muchísimas sonrisas, sueños cumplidos, abrazos sinceros y momentos tan hermosos como tu corazón";
 
     lanzarConfeti();
 }
